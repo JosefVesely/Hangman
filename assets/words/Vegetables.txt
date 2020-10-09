@@ -1,0 +1,14 @@
+Potato
+Broccoli
+Onion
+Garlic
+Pea
+Tomato
+Spinach
+Corn
+Radish
+Ginger
+Lettuce
+Pepper
+Carrot
+Cucumber
